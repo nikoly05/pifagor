@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.pifagor.cz" resolutions="1x" timestamp="1462355938878">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.pifagor.cz" resolutions="1x" timestamp="1462359304481">
   <folder name="css">
     <file name="site_global.css" crc="3971268106"/>
-    <file name="master_footer.css" crc="3846057980" ref="index:real_estate"/>
-    <file name="index.css" crc="4040822194" ref="index"/>
+    <file name="master_footer.css" crc="195797100" ref="index:real_estate"/>
+    <file name="index.css" crc="4112601723" ref="index"/>
     <file name="iefonts_index.css" crc="107374909" ref="index"/>
-    <file name="real_estate.css" crc="153431420" ref="real_estate"/>
+    <file name="real_estate.css" crc="256301942" ref="real_estate"/>
     <file name="iefonts_real_estate.css" crc="4109031171" ref="real_estate"/>
   </folder>
   <folder name="assets">
@@ -84,36 +84,14 @@
     <file name="u16886-17-fs.png" crc="104298794" ref="index"/>
     <file name="pasted-svg-45313x48.svg" crc="4084482038" ref="index"/>
     <file name="pasted svg 45313x48_poster_.png" crc="3868628535" ref="index"/>
-    <file name="pasted-svg-49794x37.svg" crc="68657207" ref="index"/>
-    <file name="pasted svg 49794x37_poster_.png" crc="349215900" ref="index"/>
     <file name="pasted-svg-4948x45.svg" crc="45608295" ref="index"/>
     <file name="pasted svg 4948x45_poster_.png" crc="267636580" ref="index"/>
-    <file name="pasted-svg-37495x50.svg" crc="3865596771" ref="index"/>
-    <file name="pasted svg 37495x50_poster_.png" crc="349215900" ref="index"/>
-    <file name="pasted-svg-40565x47.svg" crc="4112509821" ref="index"/>
-    <file name="pasted svg 40565x47_poster_.png" crc="349215900" ref="index"/>
-    <file name="pasted-svg-48663x34.svg" crc="130089156" ref="index"/>
-    <file name="pasted svg 48663x34_poster_.png" crc="349215900" ref="index"/>
     <file name="pasted-svg-49009x25.svg" crc="3767202226" ref="index"/>
     <file name="pasted svg 49009x25_poster_.png" crc="528726954" ref="index"/>
-    <file name="pasted-svg-30696x48.svg" crc="3796920796" ref="index"/>
-    <file name="pasted svg 30696x48_poster_.png" crc="349215900" ref="index"/>
     <file name="pasted-svg-50279x45.svg" crc="68933679" ref="index"/>
     <file name="pasted svg 50279x45_poster_.png" crc="3896205621" ref="index"/>
-    <file name="pasted-svg-44926x47.svg" crc="3899978398" ref="index"/>
-    <file name="pasted svg 44926x47_poster_.png" crc="349215900" ref="index"/>
-    <file name="pasted-svg-48876x37.svg" crc="4121768673" ref="index"/>
-    <file name="pasted svg 48876x37_poster_.png" crc="349215900" ref="index"/>
     <file name="pasted-svg-46261x47.svg" crc="4099347257" ref="index"/>
     <file name="pasted svg 46261x47_poster_.png" crc="3846935751" ref="index"/>
-    <file name="pasted-svg-20983x47.svg" crc="4282879265" ref="index"/>
-    <file name="pasted svg 20983x47_poster_.png" crc="349215900" ref="index"/>
-    <file name="pasted-svg-4895x46.svg" crc="4285721249" ref="index"/>
-    <file name="pasted svg 4895x46_poster_.png" crc="349215900" ref="index"/>
-    <file name="pasted-svg-48634x39.svg" crc="3926197535" ref="index"/>
-    <file name="pasted svg 48634x39_poster_.png" crc="349215900" ref="index"/>
-    <file name="pasted-svg-50542x48.svg" crc="3863511849" ref="index"/>
-    <file name="pasted svg 50542x48_poster_.png" crc="349215900" ref="index"/>
     <file name="sign in-u6482-fr.png" crc="340530431" ref="index"/>
     <file name="pasted-svg-44813x46.svg" crc="3762717081" ref="index"/>
     <file name="pasted svg 44813x46_poster_.png" crc="4146794499" ref="index"/>
@@ -194,7 +172,29 @@
     <file name="u17110-17-r.png" crc="4270900176" ref="real_estate"/>
     <file name="u17110-17-m.png" crc="66175039" ref="real_estate"/>
     <file name="u17110-17-fs.png" crc="170208432" ref="real_estate"/>
+    <file name="realty.svg" crc="68657207" ref="index"/>
+    <file name="realty_poster_.png" crc="4284738814" ref="index"/>
+    <file name="restaurants.svg" crc="3865596771" ref="index"/>
+    <file name="restaurants_poster_.png" crc="476006890" ref="index"/>
+    <file name="tourizm.svg" crc="4112509821" ref="index"/>
+    <file name="tourizm_poster_.png" crc="4159427989" ref="index"/>
+    <file name="kommerce.svg" crc="130089156" ref="index"/>
+    <file name="kommerce_poster_.png" crc="461987045" ref="index"/>
+    <file name="hotels.svg" crc="3796920796" ref="index"/>
+    <file name="hotels_poster_.png" crc="501590047" ref="index"/>
+    <file name="finance.svg" crc="3899978398" ref="index"/>
+    <file name="finance_poster_.png" crc="3804581197" ref="index"/>
+    <file name="wholesale.svg" crc="4121768673" ref="index"/>
+    <file name="wholesale_poster_.png" crc="3794972188" ref="index"/>
+    <file name="telekom.svg" crc="4282879265" ref="index"/>
+    <file name="telekom_poster_.png" crc="3770103097" ref="index"/>
+    <file name="medical.svg" crc="4285721249" ref="index"/>
+    <file name="medical_poster_.png" crc="443054027" ref="index"/>
+    <file name="logistics.svg" crc="3926197535" ref="index"/>
+    <file name="logistics_poster_.png" crc="4221445966" ref="index"/>
+    <file name="proizvodstvo.svg" crc="3863511849" ref="index"/>
+    <file name="proizvodstvo_poster_.png" crc="4213432908" ref="index"/>
   </folder>
-  <file name="index.html" crc="4248379981" seo="true" mt="1462354203466" redirect="true"/>
-  <file name="real_estate.html" crc="337384442" seo="true" mt="1462355791267" redirect="true"/>
+  <file name="index.html" crc="4090114239" seo="true" mt="1462359222443" redirect="true"/>
+  <file name="real_estate.html" crc="301847193" seo="true" mt="1462359253469" redirect="true"/>
 </manifest>
