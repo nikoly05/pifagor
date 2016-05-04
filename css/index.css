@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #0000F5;
-	background-color: #21527B;
+	color: #0000F1;
+	background-color: #2A670C;
 }
 
 #muse_css_mq
@@ -7877,7 +7877,6 @@
 	border-width: 3px;
 	border-color: #333333;
 	background-color: transparent;
-	padding-bottom: 1px;
 	margin-left: 79px;
 	position: relative;
 }
@@ -7899,7 +7898,7 @@
 #u6515_position_content
 {
 	margin-top: -17px;
-	padding-bottom: 26px;
+	padding-bottom: 28px;
 	width: 100%;
 }
 
@@ -7951,42 +7950,41 @@
 	margin: 0px 0px 0px 57px;
 }
 
-#u14205
+#u17384
 {
-	z-index: 594;
+	z-index: 598;
 	width: 50px;
 	background-color: transparent;
-	margin-left: 13px;
-	margin-top: 8px;
+	margin-left: 12px;
+	margin-top: 7px;
 	position: relative;
 }
 
-#buttonu6513:hover #u14205
+#buttonu6513:hover #u17384
 {
 	width: 50px;
 	min-height: 0px;
-	margin: 8px 0px 0px 13px;
+	margin: 7px 0px 0px 12px;
 }
 
-#buttonu6513:active #u14205
+#buttonu6513:active #u17384
 {
 	width: 50px;
 	min-height: 0px;
-	margin: 8px 0px 0px 13px;
+	margin: 7px 0px 0px 12px;
 }
 
-#buttonu6513.ButtonSelected #u14205
+#buttonu6513.ButtonSelected #u17384
 {
 	width: 50px;
 	min-height: 0px;
-	margin: 8px 0px 0px 13px;
+	margin: 7px 0px 0px 12px;
 }
 
-#u6518
+#u17380
 {
-	z-index: 595;
+	z-index: 599;
 	display: block;
-	margin-bottom: -179px;
 }
 
 #u6514-6
@@ -8041,7 +8039,7 @@
 
 #u6517-4
 {
-	z-index: 596;
+	z-index: 594;
 	width: 241px;
 	min-height: 20px;
 	background-color: transparent;

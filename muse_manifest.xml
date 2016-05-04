@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.pifagor.cz" resolutions="1x" timestamp="1462359304481">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.pifagor.cz" resolutions="1x" timestamp="1462359590783">
   <folder name="css">
     <file name="site_global.css" crc="3971268106"/>
     <file name="master_footer.css" crc="195797100" ref="index:real_estate"/>
-    <file name="index.css" crc="4112601723" ref="index"/>
+    <file name="index.css" crc="4046087948" ref="index"/>
     <file name="iefonts_index.css" crc="107374909" ref="index"/>
     <file name="real_estate.css" crc="256301942" ref="real_estate"/>
     <file name="iefonts_real_estate.css" crc="4109031171" ref="real_estate"/>
@@ -95,8 +95,6 @@
     <file name="sign in-u6482-fr.png" crc="340530431" ref="index"/>
     <file name="pasted-svg-44813x46.svg" crc="3762717081" ref="index"/>
     <file name="pasted svg 44813x46_poster_.png" crc="4146794499" ref="index"/>
-    <file name="pasted-svg-49503x21.svg" crc="3997626135" ref="index"/>
-    <file name="pasted svg 49503x21_poster_.png" crc="349215900" ref="index"/>
     <file name="pasted-svg-47008x46.svg" crc="147946738" ref="index"/>
     <file name="pasted svg 47008x46_poster_.png" crc="4078525539" ref="index"/>
     <file name="pasted-svg-39279x46.svg" crc="3830563579" ref="index"/>
@@ -194,7 +192,9 @@
     <file name="logistics_poster_.png" crc="4221445966" ref="index"/>
     <file name="proizvodstvo.svg" crc="3863511849" ref="index"/>
     <file name="proizvodstvo_poster_.png" crc="4213432908" ref="index"/>
+    <file name="analizraboti.svg" crc="3763739204" ref="index"/>
+    <file name="analizraboti_poster_.png" crc="4055966920" ref="index"/>
   </folder>
-  <file name="index.html" crc="4090114239" seo="true" mt="1462359222443" redirect="true"/>
+  <file name="index.html" crc="68594945" seo="true" mt="1462359543206" redirect="true"/>
   <file name="real_estate.html" crc="301847193" seo="true" mt="1462359253469" redirect="true"/>
 </manifest>
