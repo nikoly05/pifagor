@@ -1,0 +1,180 @@
+#u12386
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+}
+
+#u12387-4,#u12388-4
+{
+	background-color: transparent;
+	color: #333333;
+	line-height: 21px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u12388-4:active p
+{
+	color: #333333;
+	visibility: inherit;
+}
+
+#u12391-4
+{
+	background-color: transparent;
+	color: #333333;
+	text-transform: uppercase;
+	line-height: 21px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u12392-4
+{
+	background-color: transparent;
+	color: #333333;
+	font-size: 14px;
+	line-height: 21px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u12394-4
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #333333;
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.1);
+	border-radius: 5px;
+	line-height: 23px;
+	color: #333333;
+	font-size: 15px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	-pie-background: rgba(255,255,255,0.1);
+}
+
+#u12394-4:hover
+{
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.15);
+	-pie-background: rgba(255,255,255,0.15);
+}
+
+#u12407,#u12397,#u12399,#u12395,#u12405,#u12401,#u12403
+{
+	background-color: transparent;
+}
+
+#u12393-4,#u12389-4,#u12390-4
+{
+	background-color: transparent;
+	color: #333333;
+	line-height: 21px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u12409
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u12411-4
+{
+	background-color: transparent;
+	color: #333333;
+	font-size: 20px;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 24px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u12410
+{
+	background: transparent url("../images/facebook-icon-33.svg") no-repeat center center;
+	background-size: contain;
+}
+
+#u12410:hover
+{
+	background: transparent url("../images/facebook-icon-white.svg") no-repeat center center;
+	background-size: contain;
+}
+
+.nosvg #u12410
+{
+	background-image: url('../images/facebook-icon-33_poster_u11356.png');
+}
+
+.nosvg #u12410:hover
+{
+	background-image: url('../images/facebook-icon-white_poster_u8005.png');
+}
+
+#u12412
+{
+	background: transparent url("../images/twitter-icon-33.svg") no-repeat center center;
+	background-size: contain;
+}
+
+#u12412:hover
+{
+	background: transparent url("../images/twitter-icon-white.svg") no-repeat center center;
+	background-size: contain;
+}
+
+.nosvg #u12412
+{
+	background-image: url('../images/twitter-icon-33_poster_u11353.png');
+}
+
+.nosvg #u12412:hover
+{
+	background-image: url('../images/twitter-icon-white_poster_u7999.png');
+}
+
+#u12414
+{
+	background: transparent url("../images/vk-33.svg") no-repeat center center;
+	background-size: contain;
+}
+
+#u12414:hover
+{
+	border-width: 0px;
+	border-color: transparent;
+	border-radius: 3px;
+	background: transparent url("../images/vk-w.svg") no-repeat center center;
+	background-size: contain;
+}
+
+.nosvg #u12414
+{
+	background-image: url('../images/vk-33_poster_u11359.png');
+}
+
+.nosvg #u12414:hover
+{
+	background-image: url('../images/vk-w_poster_u7987.png');
+}
+
+#u12413-4
+{
+	background-color: transparent;
+	color: #333333;
+	font-size: 11px;
+	line-height: 13px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+
