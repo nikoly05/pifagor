@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.pifagor.cz" resolutions="1x" timestamp="1462359590783">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.pifagor.cz" resolutions="1x" timestamp="1462361330854">
   <folder name="css">
     <file name="site_global.css" crc="3971268106"/>
     <file name="master_footer.css" crc="195797100" ref="index:real_estate"/>
-    <file name="index.css" crc="4046087948" ref="index"/>
-    <file name="iefonts_index.css" crc="107374909" ref="index"/>
+    <file name="index.css" crc="4050352000" ref="index"/>
+    <file name="iefonts_index.css" crc="86885366" ref="index"/>
     <file name="real_estate.css" crc="256301942" ref="real_estate"/>
     <file name="iefonts_real_estate.css" crc="4109031171" ref="real_estate"/>
   </folder>
@@ -195,6 +195,6 @@
     <file name="analizraboti.svg" crc="3763739204" ref="index"/>
     <file name="analizraboti_poster_.png" crc="4055966920" ref="index"/>
   </folder>
-  <file name="index.html" crc="68594945" seo="true" mt="1462359543206" redirect="true"/>
+  <file name="index.html" crc="3882368484" seo="true" mt="1462361222771" redirect="true"/>
   <file name="real_estate.html" crc="301847193" seo="true" mt="1462359253469" redirect="true"/>
 </manifest>
